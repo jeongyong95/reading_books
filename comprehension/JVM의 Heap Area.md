@@ -4,7 +4,7 @@
 - JVM의 `Runtime Data Areas`에서 `Heap`은 객체를 저장합니다.
 - 객체에 대한 참조 변수는 `Stack`에 있습니다.
 
-##  Oracle의 Hotspot VM의 Heap 구조
+##  Oracle의 HotSpot VM의 Heap 구조
 - `Young Generation`
   - `Eden`
     - 객체가 최초로 할당되는 장소
