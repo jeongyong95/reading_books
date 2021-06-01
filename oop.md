@@ -1,5 +1,8 @@
 #   Object Oriented Programming
 
+## 개요
+- 인간 지향적 프로그래밍
+
 ##  OOP의 4대 특성
 - `캡슐화` : 정보은닉
   - 접근 제한자
