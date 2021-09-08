@@ -15,3 +15,6 @@
   - 포트만 지정하면 프로토콜은 `tcp`로 묵시적 지정
 - 컨테이너 내부에서 명령을 수행하려면
   - `docker exec {container} {command}`
+
+## 참고자료
+- [생활코딩, 도커 수업](https://youtube.com/playlist?list=PLuHgQVnccGMDeMJsGq2O-55Ymtx0IdKWf)
